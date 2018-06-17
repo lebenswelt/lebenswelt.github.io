@@ -59,3 +59,45 @@ Felgen r4 -- On hiatus while it thinks about what it did.
 Sketches and ideas currently seem to lead to a different, more conservative, form of modularity with a much stronger emphasis on aesthetics. The singular positive f.Rocketsled had (differential steering) will be retained.
 
 [[[ Horizontal Break ]]]
+
+tLogoQube [[aka OligSat, MicroMagQube, MagPocketQube, EagleSat-1, Eagle-2, Beaker1, MicroMagSat, and "Money on the Barrelhead."]]
+
+Large portions of this project's design and development I am disallowed from discussing. Public information I would like and am allowed to share on this project follows:
+
+Approved text,
+"Utilizing my previous work in the PCB design and coding of EagleSat-1, I coordinated a team in the integration of the Micromag 3-Axis Magnetometer and RFM22b Transmitter programmed in uLogo."
+
+uLogo was/is Brian's (at Playful Invention Company) pet project and was in its initial development stages when we (attempted) to utilize it for our project at the behest of our Chief Science Officer located in Sonoma, CA (whom I shall not name.)
+The <a href="https://web.archive.org/web/20160407031519/https://universe.sonoma.edu/T-LogoQube/sites/default/files/Presentations/TLQ_release_120213.pdf#overlay-context=">launch press-release documentation</a> says, "T-LogoQube was built by about  a dozen undergraduate students at SSU [...] and MSU's Department of Earth and Space Science[....]" and names exactly one of the more than 15 members of the Morehead State University Team which spanned 3 departments. The documentation says, "and Will Roche
+led the MSU effort." Will's name is actually William Roach-Barrett. After my involvement began winding down, I handed off what resources regarding uLogo were available to him. Also deserving honorable mention is Kevon Jackson, at the time a Computer Science undergrad at MSU whose work was critical but whose name was unknown even to most team members. 
+
+The real star of this project, in my opinion, was Jordan Halea. I can't count the number of all-nighters and almost-all-nighters he pulled in its completion. His hard work was truly humbling.
+
+This more or less concludes the part I can discuss. Rather than discussing what I can't discuss and why, I'll ennumerate some of the shallow lessons I took away from this project.
+
+The Best:
+<ul><li>I have a picture of (then) President Barack Obama and German Chancellor Angela Merkel discussing my engineering prototype. This photo is likely to be the peak of my entire engineering career.
+</ul>
+
+<img>
+
+
+The Good:
+<ul>
+  <li>Being the smartest person in a room is the worst way to work. Surrounding yourself with a team of people you can learn from is gift.
+  <li>A team, or even a team member, who is passionate, dedicated, and hardworking can make impossible schedules less impossible and questionable design decisions seem reasonable (if not necessarily good.)
+  <li>I am very fortunate to have worked on this project with more than a few engineers I believe to be unquestionably better than myself.
+  <li>This project was my first experience with I2C and magnetometers. I am happy to report I am now confident enough to rely on them for future projects.
+</ul>
+
+The Bad:
+<ul>
+  <li><b>JUST BECAUSE YOU ARE WORKING FOR AN INTENSELY HIGH PROFILE PROJECT AND A REPUTABLE EMPLOYER YOU MUST NOT ASSUME THEY WILL TREAT YOU OR THE PROJECT FAIRLY OR EQUITABLY. IF YOU HAVE ANY INTEREST IN GETTING PAID FOR YOUR EFFORT, DEMAND CASH ON THE BARRELHEAD</b> (or at least a signed contractual agreement.)
+  <li>Being the most reliable member in a vertical management structure should be reserved for the person at the top of said structure.
+  <li>No amount of money is worth changing the design specifications on a project every 2 weeks for 52 consecutive weeks.
+  <li>No amount of money is worth working with (and especially for) racists, homophobes, sexists or bigots.
+  <li>'No money' is worth even less than 'no amount of money.'
+  <li>Changing a project's name 8 times in 12 months makes promoting it through conventional press almost impossible.
+  <li>There is absolutely zero reason why a management team of three people should change a project's name (publicly) 8 times.
+  <li>Once a project is completed, deployed, and has ceased to function, there is no need to change its name.
+</ul>
