@@ -1,0 +1,61 @@
+A pad to work on drafts of content while I'm stuck at work.
+
+[[[ Horizontal Break ]]]
+
+Felgen [[my most loyal follower]]
+
+This project is very unusual and thusly the writeup starts with the conclusion. 
+Rather than posting project takeaways for this one, I would like to justify what must appear to be an exceptionally awful lack of planning.
+
+The Project Goal is the starting point of every project. You decide what it should do, what it can't do, then design to accomodate those needs.
+Felgen has always been and likely always will be a "Personal Growth" project. It lacks any Project Goal whatsoever and its revisions are usually the result of whimsy to the tune of, "I would really like to learn how to use [Blender/C#/Altium/Magnetometers/etc.]; I can do that by tinkering with Felgen."
+
+Now we go back to the beginning.
+
+Felgen was born in 2012 to the joyous parents Asinine College Project and Feature Creep.
+
+Obligatory ugly baby photos follow:
+<photo collage>
+
+The benal task I was asked to perform was to automate a remote controlled vehice (a NewBright Baja Buggy) to allow for acceleration, a single turn, then more acceleration.
+
+Provided at no cost to me was a microcontroller which could be programmed only in BASIC and an unspoiled (clearance) RC Car. Programming such a turn of events took only moments. Bypassing the Radio Receiver (which was integrated as part of the motor controller) took equally a brief period of time. A 3 month project was accomplished in under an hour. Idle hands make projects baloon in terms of cost, both time and USD. 
+
+I would have preferred to change the microcontroller, both to accomodate a language other than BASIC and to allow for the top cover to be used. Additionally the steering mechanism was developed for affordability not control, so a "fine, accurate turn" was impossible. Rather than changing the microcontroller and changing the steering mechanism as separate steps, I elected to fix two birds with one stone, as it were. 
+
+Over the summer I taught myself Solidworks and modeled a new chassis (to better fit the current microcontroller) and steering mechanism (to utilize a servo rather than a motor.)
+
+<solidworks images>
+
+I then had these 3d printed, tested them to my satisfaction, and began the next iteration with a (stupidly) more robust microcontroller.
+
+Felgen r2
+<Images of Prints>
+
+A number of things happened around the same time and, as is the problem with making documentation well after the fact, I can't recall portions of the build process accurately.
+
+The circumstances can be simplified to: 
+A) I had a small working robot. 
+B) I had been recruited to be a member of the college Robotics Team.
+C) The college Robotics Team had a competition rapidly approaching.
+<therefore> My robot gained a version that could perform meaningless and unusal tasks such as kicking a football, lifting a dumbbell, and pushing small colored balls around an arena.
+
+Felgen r2 Olympiad
+
+I will insert photos here of Olympiad if I ever discover any or reconstruct it for nostalgia. We did not end up competing because it was discovered our college department had misrepresented the amount of funds we had for travel (by telling us it was a non-zero number.)
+
+More time passed, I completed both of my Bachelor's degrees and eventually decided that I liked the version-based-model Felgen r2 had started to employ. Feature-creep was finally maximized when Nick asked me to assist with his Senior Project, an autonomous Lawnmowing robot.
+
+Felgen r2 could not support, even remotely, a lawn-mowing apparatus. So parts were redesigned beginning with the chassis, moving to the steering mechanism, proceeding through the wheels (which became treads to improve grip,) and finally new parts were added entirely consisting of a modular, easily-printable "rack" system for adding components and modules.
+
+Felgen r3, the infinitely modular and quite hideous Rocketsled.
+
+<r3 sld images>
+
+It was here, at the end of Nick's project with a design that I ultimately didn't like, aesthetically or functionally, and certainly wasn't proud enough to display that I wanted to build, I decided Felgen's evolution had taken a serious misstep.
+
+Felgen r4 -- On hiatus while it thinks about what it did. 
+
+Sketches and ideas currently seem to lead to a different, more conservative, form of modularity with a much stronger emphasis on aesthetics. The singular positive f.Rocketsled had (differential steering) will be retained.
+
+[[[ Horizontal Break ]]]
