@@ -1,12 +1,15 @@
 <!DOCTYPE HTML>
 <!--
+	Template: 
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	Modified by Eric Lawson [EmptyRespon.se]
 -->
 <html>
 	<head>
-		<title>Generic - Editorial by HTML5 UP</title>
+		<title>EmptyRespon.se</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -25,45 +28,92 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<a href="index.html" class="logo"><strong>The Main Page</strong>, one more EmptyRespon.se</a>
 									<ul class="icons">
-										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon fa-medium"><span class="label">Medium</span></a></li>
+										
+										<li><a href="https://www.facebook.com/e324EmptyResponse/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="http://angelwyng.deviantart.com/" class="icon fa-deviantart"><span class="label">deviantArt</span></a></li>
+										<li><a href="#" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
+										<li><a href="http://github.com/lebenswelt" class="icon fa-github"><span class="label">GitHub</span></a></li>
 									</ul>
 								</header>
 
 							<!-- Content -->
 								<section>
 									<header class="main">
-										<h1>Generic</h1>
+										<h1>Felgen</h1>
 									</header>
 
-									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+									<span class="image main"><img src="images/felgen.jpg" alt="" /></span>
 
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<p>This project is very unusual and thusly the writeup starts with the conclusion. 
+Rather than posting project takeaways for this one, I would like to justify what must appear to be an exceptionally awful lack of planning.</p>
 
-									<hr class="major" />
+<p>The Project Goal is the starting point of every project. You decide what it should do, what it can't do, then design to accomodate those needs.
+Felgen has always been and likely always will be a "Personal Growth" project. It lacks any Project Goal whatsoever and its revisions are usually the result of whimsy to the tune of, "I would really like to learn how to use [Blender/C#/Altium/Magnetometers/etc.]; I can do that by tinkering with Felgen."</p>
 
-									<h2>Interdum sed dapibus</h2>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<p><b>Now we go back to the beginning.</b></p>
 
-									<hr class="major" />
+<hr class="major" />
 
-									<h2>Magna etiam veroeros</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<h2>Felgen r0</h2>
 
-									<hr class="major" />
+<p>Felgen was born in 2012 to the joyous parents Asinine College Project and Feature Creep.</p>
 
-									<h2>Lorem aliquam bibendum</h2>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+<p>Obligatory ugly baby photos follow:</p>
+
+<p><b>photo collage</b></p>
+
+<p>The benal task I was asked to perform was to automate a remote controlled vehice (a NewBright Baja Buggy) to allow for acceleration, a single turn, then more acceleration.</p>
+
+<p>Provided at no cost to me was a microcontroller which could be programmed only in BASIC and an unspoiled (clearance) RC Car. Programming such a turn of events took only moments. Bypassing the Radio Receiver (which was integrated as part of the motor controller) took equally a brief period of time. A 3 month project was accomplished in under an hour. Idle hands make projects baloon in terms of cost, both time and USD. </p>
+
+<p>I would have preferred to change the microcontroller, both to accomodate a language other than BASIC and to allow for the top cover to be used. Additionally the steering mechanism was developed for affordability not control, so a "fine, accurate turn" was impossible. Rather than changing the microcontroller and changing the steering mechanism as separate steps, I elected to fix two birds with one stone, as it were. </p>
+
+<p>Over the summer I taught myself Solidworks and modeled a new chassis (to better fit the current microcontroller) and steering mechanism (to utilize a servo rather than a motor.)</p>
+
+<hr class="major" />
+
+									<h2>Felgen r1</h2>
+
+<p><b>solidworks images></b></p>
+
+<p>I then had these 3d printed, tested them to my satisfaction, and began the next iteration with a (stupidly) more robust microcontroller.</p>
+
+<hr class="major" />
+
+									<h2>Felgen r2</h2>
+<p><b>Images of Prints</b></p>
+
+<p>A number of things happened around the same time and, as is the problem with making documentation well after the fact, I can't recall portions of the build process accurately.</p>
+
+</p>The circumstances can be simplified to: 
+A) I had a small working robot. 
+B) I had been recruited to be a member of the college Robotics Team.
+C) The college Robotics Team had a competition rapidly approaching.
+[therefore] My robot gained a version that could perform meaningless and unusal tasks such as kicking a football, lifting a dumbbell, and pushing small colored balls around an arena.</p>
+
+
+<hr class="major" />
+									<h2>Felgen r2 Olympiad</h2>
+
+<p>I will insert photos here of Olympiad if I ever discover any or reconstruct it for nostalgia. We did not end up competing because it was discovered our college department had misrepresented the amount of funds we had for travel (by telling us it was a non-zero number.)</p>
+
+<p>More time passed, I completed both of my Bachelor's degrees and eventually decided that I liked the version-based-model Felgen r2 had started to employ. Feature-creep was finally maximized when Nick asked me to assist with his Senior Project, an autonomous Lawnmowing robot.</p>
+
+<p>Felgen r2 could not support, even remotely, a lawn-mowing apparatus. So parts were redesigned beginning with the chassis, moving to the steering mechanism, proceeding through the wheels (which became treads to improve grip,) and finally new parts were added entirely consisting of a modular, easily-printable "rack" system for adding components and modules.</p>
+
+<hr class="major" />
+									<h2>Felgen r3, the infinitely modular and quite hideous Rocketsled.</h2>
+
+<p><b>r3 sld images</b></p>
+
+<p>It was here, at the end of Nick's project with a design that I ultimately didn't like, aesthetically or functionally, and certainly wasn't proud enough to display that I wanted to build, I decided Felgen's evolution had taken a serious misstep.</p>
+
+<hr class="major" />
+									<h2>Felgen r4 -- On hiatus while it thinks about what it did. </h2>
+
+<p>Sketches and ideas currently seem to lead to a different, more conservative, form of modularity with a much stronger emphasis on aesthetics. The singular positive f.Rocketsled had (differential steering) will be retained.</p>
 
 								</section>
 
@@ -88,43 +138,45 @@
 									</header>
 									<ul>
 										<li><a href="index.html">Homepage</a></li>
-										<li><a href="generic.html">Generic</a></li>
-										<li><a href="elements.html">Elements</a></li>
+										<li><a href="businessModel">About Our Business Model</a></li>
+										<li><a href="services">Services and Pricing</a></li>
 										<li>
-											<span class="opener">Submenu</span>
+											<span class="opener">Our Projects</span>
 											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
+												<li><a href="Travelmate">TravelMate</a></li>
+												<li><a href="CoffeemateCoz">CoffeemateCoz</a></li>
+												<li><a href="tlogoqube">T-LogoQube</a></li>
+												<li><a href="tablesat">TableSat</a></li>
+												<li><a href="SigMate">SigMate</a></li>
+												<li><a href="felgen">Felgen</a></li>
+												
 											</ul>
 										</li>
-										<li><a href="#">Etiam Dolore</a></li>
-										<li><a href="#">Adipiscing</a></li>
+
+										<li><a href="elements.html">Charities</a></li>
 										<li>
-											<span class="opener">Another Submenu</span>
+											<span class="opener">Testimonies and Appreciation</span>
 											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
+												<li><a href="#">Eagles Landing Pet Hospital</a></li>
+												<li><a href="#">Morehead State University</a></li>
+												<li><a href="#">Grateful Individuals</a></li>
+
 											</ul>
 										</li>
-										<li><a href="#">Maximus Erat</a></li>
-										<li><a href="#">Sapien Mauris</a></li>
-										<li><a href="#">Amet Lacinia</a></li>
+										
+										<li><a href="faq">Free Advice</a></li>
 									</ul>
 								</nav>
 
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Ante interdum</h2>
+										<h2>Our Engineers</h2>
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+											<a href="eLawson" class="image"><img src="images/eLawson.jpg" alt="" /></a>
+											<p>Eric Lawson<br>Founder, altruist, and eccentric.<br> Experience with Software, Hardware, Systems, and Electromechanical Engineering</p>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
@@ -136,27 +188,27 @@
 										</article>
 									</div>
 									<ul class="actions">
-										<li><a href="#" class="button">More</a></li>
+										<li><a href="employees" class="button">More</a></li>
 									</ul>
 								</section>
 
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Get in touch</h2>
+										<h2>Get connected</h2>
 									</header>
-									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<p>EmptyRespon.se is always looking for new, interesting problems to generate solutions for. Email or call for a consultation today.</p>
 									<ul class="contact">
-										<li class="fa-envelope-o"><a href="#">information@untitled.tld</a></li>
-										<li class="fa-phone">(000) 000-0000</li>
-										<li class="fa-home">1234 Somewhere Road #8254<br />
-										Nashville, TN 00000-0000</li>
+										<li class="fa-envelope-o"><a href="#">eLawson@EmptyRespon.se</a></li>
+										<li class="fa-phone">(606) 485-8079</li>
+										<li class="fa-home">
+										Lexington, KY 42505-0000</li>
 									</ul>
 								</section>
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+									<p class="copyright">&copy; EmptyRespon.se All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 								</footer>
 
 						</div>
