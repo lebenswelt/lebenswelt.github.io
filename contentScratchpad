@@ -1,19 +1,21 @@
 A pad to work on drafts of content while I'm stuck at work.
 
 A list of pages with no copy yet:
-
-Business Model / Services & Pricing
 Testimony / Appreciation
-faq
 TravelMate
 CoffeeMateCoz
 SigMate
-eLawson
-nLemaster
+
+Modals:
 failure <--Maybe just an image
 HomeRun <--Maybe just an image
-
 Not images but MODALS: https://www.w3schools.com/howto/howto_css_modals.asp
+
+Alpha copy:
+faq
+Employees {nLemaster|eLawson}
+Business Model / Services & Pricing
+
 
 [[[ Horizontal Break ]]]
 
@@ -243,3 +245,20 @@ Free Advice
 <p>If the free advice isn't what you're looking for: feel free to email or call us.</p>
 
 [[[hz]]]
+
+<h2>CoffeeMateCoz</h2>
+
+<p>Dozens and Dozens of robots have been designed to make and serve a better beverage... so why not mine?</p>
+
+<h2>Our barista: The Anki Cozmo (Collector's Edition)</h2>
+
+<p>Cozmo here can lift, pull, employ computer vision, and emote. He cannot, currently make a drink.</p>
+
+<h3>The Problems:</h3>
+<p>Cozmo's manipulators are designed to operate on his lightcubes and only his lightcubes. His lightcubes are lightweight, clearly marked, and notched so his lifter can slide underneath to operate them.
+<p>Coffee is heavy. Water is heavier. Coffee water is immensely hot and dangerous to consumer robotics.</p>
+<br>
+<h3>An Outline of Objectives:</h3>
+<ol>
+<li>Cozmo must safely move from his charging station (on an elevated plane) to the ground level.</li>
+<li>Cozmo must safely move from the ground level to the elevated plane with the coffee machine.</li>
