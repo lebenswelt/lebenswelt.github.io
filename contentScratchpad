@@ -184,3 +184,62 @@ Intern Nick
 <p><a href="NickLemaster_Resume.pdf">Nick's Resume</a> is also available for potential employers.</p>
 
 [[[ Horizontal Break ]]]
+
+<img>
+
+<h2>The EmptyRespon.se Business Model</h2>
+
+<p><strong>Be excited. Do good. Get Paid.</p>
+
+<p>Honestly, as business models go EmptyRespon.se operates pretty simply. First profits cover the cost of running the business another year. Ten percent of all profit after that goes toward whatever ridiculous project is currently underway. Whatever duckets are left over <a href="charity">get handed to charity</a> or, in exceptionally rare cases, go toward paying the engineers.
+
+<hr class="major" />
+
+<h2>Services and Pricing</h2>
+
+<p>First and foremost, EmptyRespon.se provides concierge support at a flat rate of $120/hr. Fix it right, fix it once, don't force a customer to call us to fix something we've already fixed.</p>
+
+<p>Services outside the scope of Concierge Support include:</p>
+<ul>
+<li>Client Education</li>
+<li>Data Recovery</li>
+<li>New System Installation and Configuration</li>
+<li>Website Development</li>
+</ul>
+
+<p>Each of these are custom services accepted and priced on the scope of the individual exercise. Configuring a secured data server central to your business will necessarily take more time and more care than configuring an ipad to scroll weather bulletins and menu prices.</p>
+
+<hr class="major" />
+
+<h2>Discounts</h2>
+
+<p>Since its inception, this company has always had a strong focus on client education. As such, most of our discounts are available to all clients and individuals willing to promote STEM and/or <a href="eLawson">Lebenswelt</a> in their community.</p>
+
+<p>Current Discounts include:</p>
+<ul>
+<li>OVERHAUL -- 20% off any invoice
+<blockquote>Save 20% off any invoice and support local robotics when you or your business displays a 3d-print of the <a href="thingiverse.com/">free model</a> of <a href=battlebots>Overhaul 2.</a></blockquote></li>
+<li>ONIONNOD -- 20% off any invoice
+<blockquote>Save 20% off any invoice and support online anonymity by operating at least one node for <a href="torproject.org">the torproject.</a> Our Engineers are willing to walk you through the process if you're willing to supply the hardware required.</blockquote>
+</li>
+<li>DEADDROP -- 10% off any invoice
+<blockquote>Save 10% off any invoice and help bring Sneakernet back to your community when you <a href="deaddrops.com">set up a deaddrop</a> and <a href="https://deaddrops.com/db-map-2/">register it on the official DEADDROPS map.</a>
+</blockquote></li>
+</ul>
+
+[[[hz]]]
+
+Free Advice
+
+<p>Not all problems need a wealth of information and experience to solve. The following steps will work for pretty much anyone trying to do pretty much anything.</p>
+<ul>
+<li><strong>RTFM</strong> -- When in doubt, turn to a good book. If a manual was supplied with whatever isn't working: read it. Twice, preferably. If no manual was supplied, one probably still exists. Where to find it? Try...</li>
+<li><strong>Google</strong> -- If you have a question, it's a solid chance someone else has already asked and been answered. Google is your friend. Be descriptive. Device name, model number, exact symptoms... all valuable information.</li>
+<li><strong>Youtube</strong> -- Youtube is google for the visual learners. Every problem has been solved on video; every skill has been demonstrated on video. Youtube is full of people who earnestly want to help you learn.</li>
+<li><strong>Remove Power. Wait 10 Seconds. Restore Power.</strong> -- It's a cliche because it works. There are a plethora of problems that can all be fixed by temporarily cutting power. This is twice as true if your device has recently been subjected to power spikes or brownouts.</li>
+<li><strong>Switch to Linux</strong> -- Windows is a large, convoluted mess of architecture and decades of patchwork solutions piled on top of each other. Apple is slightly better because it's derived from Linux BSD. Many flavors of linux are free. Almost all of them are easy-to-use and infinitely less prone to error. Almost all linux distributions can be tried on a particular computer without changing any data on the computer via a "Live Boot" USB or CD.</li>
+</ul>
+
+<p>If the free advice isn't what you're looking for: feel free to email or call us.</p>
+
+[[[hz]]]
