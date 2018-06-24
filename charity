@@ -28,7 +28,7 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"><strong>T-LogoQube</strong>, one more EmptyRespon.se</a>
+									<a href="index.html" class="logo"><strong>Charity</strong>, one more EmptyRespon.se</a>
 									<ul class="icons">
 										
 										<li><a href="https://www.facebook.com/e324EmptyResponse/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
@@ -40,61 +40,31 @@
 
 							<!-- Content -->
 								<section>
-							
+									<span class="image main"><img src="images/felgen.jpg" alt="A View of Felgen r2 Modeled in Solidworks" /></span>
+<p>Perhaps some image here? Not sure what would be appropriate. Maybe just something Left-aligned. Maybe a little Pride-bot. I like that idea. Some small bots raising a sign for The Trevor Project and Lambert House in their lifters.</p>
 
-									<span class="image main"><img src="images/tlogoqube.jpg" alt="The T-LogoQube Engineering Model, held and discussed by Former President Barack Obama and German Chancellor Angela Merkel in Hanover Messe." /></span>
+<p>From June 2017 to June 2018, EmptyRespon.se donated <b>83 percent</b> of its total revenue to charity. This year, donations went to <a href="https://www.thetrevorproject.org/">The Trevor Project</a> and <a href="http://www.lamberthouse.org/">The Lambert House</a>.</p>
+<p>Descriptions from their respective websites:</p>
+<strong>The Trevor Project</strong>
+<blockquote>Founded in 1998 by the creators of the Academy Award®-winning short film TREVOR, The Trevor Project is the leading national organization providing crisis intervention and suicide prevention services to lesbian, gay, bisexual, transgender, queer & questioning (LGBTQ) young people under 25.</blockquote>
+<br>
+<strong>The Lambert House</strong>
+<blockquote>Lambert House is a safe place for lesbian, gay, bisexual, transgender, and questioning (LGBTQ) youth ages 11-22. Our calendar is packed with fun activities, support groups, planning meetings, dances, and other events. Lambert House is where LGBTQ youth make life better for each other.
+<br><br>Come see what we are all about! Everyday, approximately 20-40 youth visit us. The drop-in center has large living rooms with a pool table, a music station for tunes, a library with LGBTQ books, TV, games, computer lab, and people to talk with about anything on your mind.
+<br><br>You might be surprised how easy it can be to meet someone going through the same things you are! Some great ways to do that are joining a support group, an activity, talking to one of the adult volunteers, using our computer lab, getting dinner, shooting pool, or playing games.
+<br><br>Lambert House serves a diverse group of youth. Over 50% of the youth who come to Lambert House are youth of color, and youth come to Lambert House activities from all over the region representing more than 130 zip codes equally distributed to the North, South, East and West.
+</blockquote>
 
-									
+<br>
+<p>At this point, of all the things our wonderful robots can do there are still two they can not. The first is cut hair. The second, and more important, is making youths, particularly LGBTQ+ youths, feel loved, accepted, and that they belong. Until such time that our robots can automate the tasks of love and acceptance to the degree that the members of the Trevor Project and the Lambert House can, EmptyRespon.se will proudly support them.</p>
+<br>
+								
 
-									<h2>T-LogoQube </h2><h4>(aka OligSat, MicroMagQube, MagPocketQube, EagleSat-1, Eagle-2, Beaker1, MicroMagSat, and "Money on the Barrelhead.")</h4><br><br>
 
-<p>Large portions of this project's design and development I am disallowed from discussing. Public information I would like and am allowed to share on this project follows:</p>
-
-<p>Approved text,<br>
-"Utilizing my previous work in the PCB design and coding of EagleSat-1, I coordinated a team in the integration of the Micromag 3-Axis Magnetometer and RFM22b Transmitter programmed in uLogo."</p>
-
-<p>uLogo was/is Brian's (at Playful Invention Company) pet project and was in its initial development stages when we (attempted) to utilize it for our project at the behest of our Chief Science Officer located in Sonoma, CA (whom I shall not name.)
-The <a href="https://web.archive.org/web/20160407031519/https://universe.sonoma.edu/T-LogoQube/sites/default/files/Presentations/TLQ_release_120213.pdf#overlay-context=">launch press-release documentation</a> says, "T-LogoQube was built by about  a dozen undergraduate students at SSU [...] and MSU's Department of Earth and Space Science[....]" and names exactly one of the more than 15 members of the Morehead State University Team which spanned 3 departments. The documentation says, "and Will Roche
-led the MSU effort." Will's name is actually William Roach-Barrett. After my involvement began winding down, I handed off what resources regarding uLogo were available to him. Also deserving honorable mention is Kevon Jackson, at the time a Computer Science undergrad at MSU whose work was critical but whose name was unknown even to most team members.</p>
-
-<p>The real star of this project, in my opinion, was Jordan Halea. I can't count the number of all-nighters and almost-all-nighters he pulled in its completion. His hard work was truly humbling.</p>
-
-<p>This more or less concludes the part I can discuss. Rather than discussing what I can't discuss and why, I'll ennumerate some of the shallow lessons I took away from this project.</p>
-
-<hr class="major" />
-
-									<h2>The Best:</h2>
-<ul><li>I have a picture of (then) President Barack Obama and German Chancellor Angela Merkel discussing my engineering prototype. This photo is likely to be the peak of my entire engineering career.
-</ul>
-
-<hr class="major" />
-
-									<h2>The Good:</h2>
-<ul>
-  <li>Being the smartest person in a room is the worst way to work. Surrounding yourself with a team of people you can learn from is gift.
-  <li>A team, or even a team member, who is passionate, dedicated, and hardworking can make impossible schedules less impossible and questionable design decisions seem reasonable (if not necessarily good.)
-  <li>I am very fortunate to have worked on this project with more than a few engineers I believe to be unquestionably better than myself.
-  <li>This project was my first experience with I2C and magnetometers. I am happy to report I am now confident enough to rely on them for future projects.
-</ul>
-
-<hr class="major" />
-
-									<h2>The Bad:</h2>
-<ul>
-  <li><b>JUST BECAUSE YOU ARE WORKING ON AN INTENSELY HIGH PROFILE PROJECT FOR A REPUTABLE EMPLOYER YOU MUST NOT ASSUME THEY WILL TREAT YOU OR THE PROJECT FAIRLY OR EQUITABLY. IF YOU HAVE ANY INTEREST IN GETTING PAID FOR YOUR EFFORT, DEMAND CASH ON THE BARRELHEAD</b> (or at least a signed contractual agreement.)
-  <li>Being the most reliable member in a vertical management structure should be reserved for the person at the top of said structure.
-  <li>No amount of money is worth changing the design specifications on a project every 2 weeks for 52 consecutive weeks.
-  <li>No amount of money is worth working with (and especially for) racists, homophobes, sexists or bigots.
-  <li>'No money' is worth even less than 'no amount of money.'
-  <li>Changing a project's name 8 times in 12 months makes promoting it through conventional press almost impossible.
-  <li>There is absolutely zero reason why a management team of three people should change a project's name (publicly) 8 times.
-  <li>Once a project is completed, deployed, and has ceased to function, there is no need to change its name.
-</ul>
 								</section>
 
 						</div>
 					</div>
-
 				<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
@@ -195,4 +165,3 @@ led the MSU effort." Will's name is actually William Roach-Barrett. After my inv
 
 	</body>
 </html>
-

@@ -120,7 +120,6 @@ Over the summer I taught myself Solidworks and modeled a new chassis (to better 
 
 						</div>
 					</div>
-
 				<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
@@ -147,16 +146,15 @@ Over the summer I taught myself Solidworks and modeled a new chassis (to better 
 												<li><a href="Travelmate">TravelMate</a></li>
 												<li><a href="CoffeemateCoz">CoffeemateCoz</a></li>
 												<li><a href="tlogoqube">T-LogoQube</a></li>
-												<li><a href="tablesat">TableSat</a></li>
 												<li><a href="SigMate">SigMate</a></li>
 												<li><a href="felgen">Felgen</a></li>
 												
 											</ul>
 										</li>
 
-										<li><a href="elements.html">Charities</a></li>
+										<li><a href="elements.html">Charity</a></li>
 										<li>
-											<span class="opener">Testimonies and Appreciation</span>
+											<span class="opener">Testimony and Appreciation</span>
 											<ul>
 												<li><a href="#">Eagles Landing Pet Hospital</a></li>
 												<li><a href="#">Morehead State University</a></li>
@@ -177,15 +175,11 @@ Over the summer I taught myself Solidworks and modeled a new chassis (to better 
 									<div class="mini-posts">
 										<article>
 											<a href="eLawson" class="image"><img src="images/eLawson.jpg" alt="" /></a>
-											<p>Eric Lawson<br>Founder, altruist, and eccentric.<br> Experience with Software, Hardware, Systems, and Electromechanical Engineering</p>
+											<p>Eric Lawson<br>Founder, altruist, and eccentric.<br> 15+ Years experience with Software, Hardware, Systems, and Electromechanical Engineering</p>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+											<a href="nLemaster" class="image"><img src="images/Nick.jpg" alt="" /></a>
+											<p>Nick Lemaster<br> TIA+ Certified Repair Technician with 3 years of IT Support and Repair experience.</p>
 										</article>
 									</div>
 									<ul class="actions">
@@ -203,7 +197,7 @@ Over the summer I taught myself Solidworks and modeled a new chassis (to better 
 										<li class="fa-envelope-o"><a href="#">eLawson@EmptyRespon.se</a></li>
 										<li class="fa-phone">(606) 485-8079</li>
 										<li class="fa-home">
-										Lexington, KY 42505-0000</li>
+										Lexington, KY 42505</li>
 									</ul>
 								</section>
 
