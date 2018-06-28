@@ -1,12 +1,15 @@
 <!DOCTYPE HTML>
 <!--
+	Template: 
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	Modified by Eric Lawson [EmptyRespon.se]
 -->
 <html>
 	<head>
-		<title>Generic - Editorial by HTML5 UP</title>
+		<title>EmptyRespon.se</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -25,51 +28,58 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<a href="index.html" class="logo"><strong>TI TravelMate</strong>, one more EmptyRespon.se</a>
 									<ul class="icons">
-										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon fa-medium"><span class="label">Medium</span></a></li>
+										
+										<li><a href="https://www.facebook.com/e324EmptyResponse/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="http://angelwyng.deviantart.com/" class="icon fa-deviantart"><span class="label">deviantArt</span></a></li>
+										<li><a href="#" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
+										<li><a href="http://github.com/lebenswelt" class="icon fa-github"><span class="label">GitHub</span></a></li>
 									</ul>
 								</header>
 
 							<!-- Content -->
 								<section>
-									<header class="main">
-										<h1>Generic</h1>
-									</header>
 
-									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
 
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<span class="image main"><img src="images/travelmate.png" alt="A Photo of the Texas Instruments TravelMate 4000E Color with the top left being another photo showcasing the branding details, make and model." /></span>
 
-									<hr class="major" />
+<h2>An 85% Cyberpunk, 15% Hipster rebuild of a Texas Instruments TravelMate 4000E <p style="color:red;">C</p><p style="color:green;">O</p><p style="color:blue;">L</p><p style="color:green;">O</p><p style="color:red;">R</p>.</h2>
 
-									<h2>Interdum sed dapibus</h2>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<hr class="major" />
+<h3>The Setup:</h3>
+<p>When someone asks if you want a 20 year old computer, the answer is always, "of course." In this case, perhaps asking "Does it work?" would have been a better first step.</p>
+<p>This piece was a gift from a fellow student at Morehead State. It was supplied with two warnings: "there is no charger," and "the CMOS battery is dead."</p>
+<h3>The Problems:</h3>
+<ol><li>"there is no charger..."</li><p>Well that was technically true. The computer could not charge because there was no charger. In trying to find what appropriate voltage a replacement hackjob would be, I discovered that the battery compartment had swollen and started to leak dangerous, ugly chemicals. So that had to go.</p>
+<li>"the CMOS battery is dead."</li><p>Also technically true. The CMOS battery on this sucker ducked out a lengthy while ago, I would wager. No worries. I would simply replace it... or would I? An image will accompany this text soon showing the cmos battery soldered directly onto the motherboard. Not only that, the batteries (which are still being manufactured) run around $15 (literally) infinitely more than I have already invested in the laptop.</p>
+</ol>
 
-									<hr class="major" />
-
-									<h2>Magna etiam veroeros</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
-
-									<hr class="major" />
-
-									<h2>Lorem aliquam bibendum</h2>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-
-								</section>
+<br>
+<h3>Options:</h3>
+<p>At this point solutions consist of:
+<ol>
+<li>Replace the battery, replace the CMOS battery, cobble together or eBay a new charger.
+<h3>OR</h3>
+<li>as <a href="etotheipiplusone.net">e0</a> says, go "full hipster" and rebuild the missing and failing parts from scratch, almost literally reinventing the wheel.</li>
+</ol><br>
+<p>This is one of those decisive moments where I (Eric Lawson) can choose to grow up into an Adult-Engineer and do the right thing, spending just a little cash and restoring an object to whatever former glory it had... or continue to be a scandalous child-at-heart, do-everything-the-hardest-way-possible Hipster-Teen-Engineer and do things the cheapest, most <a href="https://www.google.com/search?q=define%3Akludgy">kludgy</a> way possible.
+<hr class="major" />
+<br>
+<h3>An Outline of Objectives:</h3>
+<ul>
+<li>Replace the battery pack with a lower-weight battery.</li>
+<li><strong>EITHER</strong> replace the CMOS battery with a voltage regulator tied to the main battery <strong>OR</strong>replace the ENTIRE MOTHERBOARD with something that will fit.</li>
+<br><p style="color:grey;"><i>I really shouldn't be but I'm actually pretty torn on this. The idea of running this lovely case and a spanking new i5 or i7 makes me happy in a profound way.</i></p>
+</ul>
+<hr class="major" />	
+<p>Nothing can start until well after I've decided which plan to implement.</p>
+<p>So far, I've googled days worth of Mini-ITX boards and replacement Battery Packs.</p>
+<p>Current Build Phase: Indecision.</p>
+							</section>
 
 						</div>
 					</div>
-
 				<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
@@ -88,75 +98,72 @@
 									</header>
 									<ul>
 										<li><a href="index.html">Homepage</a></li>
-										<li><a href="generic.html">Generic</a></li>
-										<li><a href="elements.html">Elements</a></li>
+										<li><a href="services#businessModel">About Our Business Model</a></li>
+										<li><a href="services#services">Services and Pricing</a></li>
 										<li>
-											<span class="opener">Submenu</span>
+											<span class="opener">Our Projects</span>
 											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
+												<li><a href="Travelmate">TravelMate</a></li>
+												<li><a href="CoffeemateCoz">CoffeemateCoz</a></li>
+												<li><a href="tlogoqube">T-LogoQube</a></li>
+												<li><a href="SigMate">SigMate</a></li>
+												<li><a href="felgen">Felgen</a></li>
+												
 											</ul>
 										</li>
-										<li><a href="#">Etiam Dolore</a></li>
-										<li><a href="#">Adipiscing</a></li>
+
+										<li><a href="charity">Charity</a></li>
 										<li>
-											<span class="opener">Another Submenu</span>
+											<span class="opener">Testimony and Appreciation</span>
 											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
+												<li><a href="#">Eagles Landing Pet Hospital</a></li>
+												<li><a href="#">Morehead State University</a></li>
+												<li><a href="#">Grateful Individuals</a></li>
+
 											</ul>
 										</li>
-										<li><a href="#">Maximus Erat</a></li>
-										<li><a href="#">Sapien Mauris</a></li>
-										<li><a href="#">Amet Lacinia</a></li>
+										
+										<li><a href="faq">Free Advice</a></li>
 									</ul>
 								</nav>
 
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Ante interdum</h2>
+										<h2>Our Engineers</h2>
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+											<a href="employees#eLawson" class="image"><img src="images/eLawson.jpg" alt="" /></a>
+											<p>Eric Lawson<br>Founder, altruist, and eccentric.<br> 15+ Years experience with Software, Hardware, Systems, and Electromechanical Engineering</p>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+											<a href="employees#nLemaster" class="image"><img src="images/nLemaster.jpg" alt="" /></a>
+											<p>Nick Lemaster<br> TIA+ Certified Repair Technician with 3 years of IT Support and Repair experience.</p>
 										</article>
 									</div>
 									<ul class="actions">
-										<li><a href="#" class="button">More</a></li>
+										<li><a href="employees" class="button">More</a></li>
 									</ul>
 								</section>
 
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Get in touch</h2>
+										<h2>Get connected</h2>
 									</header>
-									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<p>EmptyRespon.se is always looking for new, interesting problems to generate solutions for. Email or call for a consultation today.</p>
 									<ul class="contact">
-										<li class="fa-envelope-o"><a href="#">information@untitled.tld</a></li>
-										<li class="fa-phone">(000) 000-0000</li>
-										<li class="fa-home">1234 Somewhere Road #8254<br />
-										Nashville, TN 00000-0000</li>
+										<li class="fa-envelope-o"><a href="mailto:eLawson@EmptyRespon.se">eLawson@EmptyRespon.se</a></li>
+										<li class="fa-phone">(606) 485-8079</li>
+										<li class="fa-home">
+										Lexington, KY 42505</li>
 									</ul>
 								</section>
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+									<p class="copyright">&copy; EmptyRespon.se All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 								</footer>
 
 						</div>
