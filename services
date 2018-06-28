@@ -47,7 +47,7 @@
 
 <hr class="major" />
 
-		<h2>The EmptyRespon.se Business Model</h2>
+		<a name="businessModel"></a><h2>The EmptyRespon.se Business Model</h2>
 
 <p><strong>Be excited. Do good. Get Paid.</p>
 
@@ -55,7 +55,7 @@
 
 <hr class="major" />
 
-<h2>Services and Pricing</h2>
+<a name="services"></a><h2>Services and Pricing</h2>
 
 <p>First and foremost, EmptyRespon.se provides concierge support at a flat rate of $120/hr. Fix it right, fix it once, don't force a customer to call us to fix something we've already fixed.</p>
 
@@ -111,8 +111,8 @@
 									</header>
 									<ul>
 										<li><a href="index.html">Homepage</a></li>
-										<li><a href="businessModel">About Our Business Model</a></li>
-										<li><a href="services">Services and Pricing</a></li>
+										<li><a href="services/#businessModel">About Our Business Model</a></li>
+										<li><a href="services/#services">Services and Pricing</a></li>
 										<li>
 											<span class="opener">Our Projects</span>
 											<ul>
@@ -147,11 +147,11 @@
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="eLawson" class="image"><img src="images/eLawson.jpg" alt="" /></a>
+											<a href="employees/#eLawson" class="image"><img src="images/eLawson.jpg" alt="" /></a>
 											<p>Eric Lawson<br>Founder, altruist, and eccentric.<br> 15+ Years experience with Software, Hardware, Systems, and Electromechanical Engineering</p>
 										</article>
 										<article>
-											<a href="nLemaster" class="image"><img src="images/nLemaster.jpg" alt="" /></a>
+											<a href="employees/#nLemaster" class="image"><img src="images/nLemaster.jpg" alt="" /></a>
 											<p>Nick Lemaster<br> TIA+ Certified Repair Technician with 3 years of IT Support and Repair experience.</p>
 										</article>
 									</div>
