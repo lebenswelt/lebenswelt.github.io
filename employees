@@ -47,7 +47,7 @@
 									<p>Generic Text About Our 'family'</p>
 <hr class="major" />
 
-									<h2>Founder, Eric Lawson</h2>
+									<a name="eLawson"></a><h2>Founder, Eric Lawson</h2>
 
 <blockquote>
 I simplify complicated problems and complicate simple problems. I've engineered satellites, robots, pirate accoutrements, video games, voices, websites, and all manner of less interesting tedium.
@@ -56,10 +56,10 @@ I simplify complicated problems and complicate simple problems. I've engineered 
 
 <hr class="major" />
 
-									<h2>Intern Nick Lemaster</h2>
+									<a name="nLemaster"></a><h2>Intern Nick Lemaster</h2>
 <blockquote>
 <p>Aspiring Desktop Support Technician with background in Electronics Engineering Technology and A+ Certified.</p>
-<p>Notable achievements include: converting router to a repeater, managing storage and security servers, and an Office 365 administrator for <strong><del><css style="background-color:black;color:white">a bank that</style></del></strong></p>
+<p>Notable achievements include: converting router to a repeater, managing storage and security servers, and an Office 365 administrator for <strong><del><css style="background-color:black;color:white">a bank</style></del></strong> an organization that wishes not to be identified.</p>
 </blockquote>
 <p><a href="pdfs/NickLemaster_Resume.pdf">Nick's Resume</a> is also available for potential employers.</p>
 
@@ -85,8 +85,8 @@ I simplify complicated problems and complicate simple problems. I've engineered 
 									</header>
 									<ul>
 										<li><a href="index.html">Homepage</a></li>
-										<li><a href="businessModel">About Our Business Model</a></li>
-										<li><a href="services">Services and Pricing</a></li>
+										<li><a href="services#businessModel">About Our Business Model</a></li>
+										<li><a href="services#services">Services and Pricing</a></li>
 										<li>
 											<span class="opener">Our Projects</span>
 											<ul>
@@ -121,11 +121,11 @@ I simplify complicated problems and complicate simple problems. I've engineered 
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="eLawson" class="image"><img src="images/eLawson.jpg" alt="" /></a>
+											<a href="employees#eLawson" class="image"><img src="images/eLawson.jpg" alt="" /></a>
 											<p>Eric Lawson<br>Founder, altruist, and eccentric.<br> 15+ Years experience with Software, Hardware, Systems, and Electromechanical Engineering</p>
 										</article>
 										<article>
-											<a href="nLemaster" class="image"><img src="images/nLemaster.jpg" alt="" /></a>
+											<a href="employees#nLemaster" class="image"><img src="images/nLemaster.jpg" alt="" /></a>
 											<p>Nick Lemaster<br> TIA+ Certified Repair Technician with 3 years of IT Support and Repair experience.</p>
 										</article>
 									</div>
