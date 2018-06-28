@@ -125,7 +125,7 @@
 											</ul>
 										</li>
 
-										<li><a href="elements.html">Charity</a></li>
+										<li><a href="charity">Charity</a></li>
 										<li>
 											<span class="opener">Testimony and Appreciation</span>
 											<ul>
@@ -167,7 +167,7 @@
 									</header>
 									<p>EmptyRespon.se is always looking for new, interesting problems to generate solutions for. Email or call for a consultation today.</p>
 									<ul class="contact">
-										<li class="fa-envelope-o"><a href="#">eLawson@EmptyRespon.se</a></li>
+										<li class="fa-envelope-o"><a href="mailto:eLawson@EmptyRespon.se">eLawson@EmptyRespon.se</a></li>
 										<li class="fa-phone">(606) 485-8079</li>
 										<li class="fa-home">
 										Lexington, KY 42505</li>
